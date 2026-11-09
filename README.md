@@ -2,7 +2,7 @@
 
 ### Background
 
-I've seen a few folks recently e.g. @Loebas, @edent implement aggressive honeypots to deter/stop
+I've seen a few folks recently e.g. [@Loebas](https://github.com/Loebas), [@edent](https://github.com/edent) implement aggressive honeypots to deter/stop
 badly-behaved bots. The essence of this is simple:
 
 1. Use robots.txt to ban bots from a URL.
